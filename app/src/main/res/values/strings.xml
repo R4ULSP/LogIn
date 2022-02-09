@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="get_new">Get new</string>
+    <string name="create_new">Create new</string>
+    <string name="do_you_have_account">Do you have account?</string>
+    <string name="wip_feature">This hasn\'t been implemented yet.</string>
+</resources>
